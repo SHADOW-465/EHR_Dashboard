@@ -146,3 +146,31 @@
 .scrollbar-thin::-webkit-scrollbar-thumb:hover {
   background: rgba(100, 116, 139, 0.5);
 }
+
+/* Print Styles for Clinical Summary Export */
+@media print {
+  body {
+    background: #ffffff !important;
+    color: #0f172a !important;
+  }
+  .glass-panel,
+  header,
+  nav,
+  .no-print {
+    display: none !important;
+  }
+  #report-container {
+    position: static !important;
+    overflow: visible !important;
+    color: #0f172a !important;
+  }
+  #report-container * {
+    color: #0f172a !important;
+    text-shadow: none !important;
+  }
+  .highlight-source {
+    border: 1px solid #94a3b8 !important;
+    background: #f1f5f9 !important;
+  }
+}
+
