@@ -1,0 +1,426 @@
+{
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\next-env.d.ts": {
+    "mtime": 1789592813.972119,
+    "hash": "29f60a376e12bf72b67d4994fcc84214"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\next.config.mjs": {
+    "mtime": 1787626712.4779873,
+    "hash": "c1f9f56ceb621258049feacf25fb12b2"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\postcss.config.mjs": {
+    "mtime": 1787626712.484186,
+    "hash": "49a3ef9c7152e861100b88ac3b034855"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\schema.sql": {
+    "mtime": 1787626712.4993162,
+    "hash": "e5133e4f155fe7ae56e48735a24c7eaa"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\supabase_setup.sql": {
+    "mtime": 1789592363.522498,
+    "hash": "edbadaf4993e2d58fb57918a770dcb3c"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\app\\layout.tsx": {
+    "mtime": 1787626712.3561985,
+    "hash": "408fe050cb5a4dbb7a719a102fc0d3e3"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\app\\page.tsx": {
+    "mtime": 1789592720.5309205,
+    "hash": "ca560ccfa6d743f76d57295e96bd86a0"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\app\\api\\analyze\\route.ts": {
+    "mtime": 1789592557.698345,
+    "hash": "ddc3b8701a93d02ebf58f49b73ef5f40"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\app\\api\\chat\\route.ts": {
+    "mtime": 1789592580.4442775,
+    "hash": "547aa3cc3cd47ae6feb69261bcfe77a0"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\app\\api\\operations\\route.ts": {
+    "mtime": 1789592593.268829,
+    "hash": "27caef9af29f4d1f84c6f28aefe8de69"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\theme-provider.tsx": {
+    "mtime": 1787626712.3646855,
+    "hash": "14d10c7a17782fd47cb1057bc3d9baa5"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\dashboard\\OperationsView.tsx": {
+    "mtime": 1789592680.8579183,
+    "hash": "65d049657c16f8b28d15b4be54190d16"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\dashboard\\PatientView.tsx": {
+    "mtime": 1789592702.2737787,
+    "hash": "965f755937a70a0a013c8950b08fe516"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\dashboard\\TriageBar.tsx": {
+    "mtime": 1789592649.0281613,
+    "hash": "79d09cef3c557b1c37442b1b5b3ae786"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\accordion.tsx": {
+    "mtime": 1787626712.3867857,
+    "hash": "b179bd0dd7c69ea3b8d39d80046ca6fb"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\alert-dialog.tsx": {
+    "mtime": 1787626712.3887868,
+    "hash": "a57dd43e322d6e0284b4a717f0a1ea3f"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\alert.tsx": {
+    "mtime": 1787626712.3897872,
+    "hash": "916507655c1a82e9fd3f06cae4e4fc9c"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\AnimatedCount.tsx": {
+    "mtime": 1787626712.3666873,
+    "hash": "a98169fc454adfc89613308b341b564c"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\AnimatedNumber.tsx": {
+    "mtime": 1787626712.3676972,
+    "hash": "0f0517405397e77c2086016c89fd8216"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\aspect-ratio.tsx": {
+    "mtime": 1787626712.3918078,
+    "hash": "9a7b5b0677b0e7f7fd6b2d376081b9b9"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\avatar.tsx": {
+    "mtime": 1787626712.3931324,
+    "hash": "1720f59a8e08fae26e3d7af85a54f1e1"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\badge.tsx": {
+    "mtime": 1787626712.3941514,
+    "hash": "ebe4c1537525cac6115da8cc7520c864"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\BezierConnection.tsx": {
+    "mtime": 1787626712.3702023,
+    "hash": "072bd82a23706362bea6b91c1a90d083"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\breadcrumb.tsx": {
+    "mtime": 1787626712.395151,
+    "hash": "ea590ea463a0e58de7e35696e55a9f09"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\button-group.tsx": {
+    "mtime": 1787626712.3971517,
+    "hash": "e16c2b0ab553f01f9455a5e0cb88eba9"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\button.tsx": {
+    "mtime": 1787626712.3991473,
+    "hash": "cc308e419deedcab98521e38f9592101"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\calendar.tsx": {
+    "mtime": 1787626712.4006493,
+    "hash": "c5a61da26416e85081a04e02d378f218"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\card.tsx": {
+    "mtime": 1787626712.4027438,
+    "hash": "a3f12d75b687553c356e1cad4c6fd63e"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\carousel.tsx": {
+    "mtime": 1787626712.4037523,
+    "hash": "ece75ae70bc33e55d9ac5c5fb7699721"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\chart.tsx": {
+    "mtime": 1787626712.405545,
+    "hash": "e163f42e32fa0183f76599de41cd23a1"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\checkbox.tsx": {
+    "mtime": 1787626712.4065566,
+    "hash": "21b650ad02bd3e16a5293c9a96c3275c"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\collapsible.tsx": {
+    "mtime": 1787626712.408085,
+    "hash": "66760be0c5e5e549b9dfc81a04a995a0"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\command.tsx": {
+    "mtime": 1787626712.4091022,
+    "hash": "a9311b780841672a9c052e53c10e0274"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\context-menu.tsx": {
+    "mtime": 1787626712.4110959,
+    "hash": "0657fb26fea9a217ee58253a5ed07c81"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\dialog.tsx": {
+    "mtime": 1787626712.4120963,
+    "hash": "274c33053865d4383c70445baddfe8f8"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\drawer.tsx": {
+    "mtime": 1787626712.413099,
+    "hash": "f3821accf3853ea56382259f208d20e6"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\dropdown-menu.tsx": {
+    "mtime": 1787626712.4150958,
+    "hash": "9adcf8a1328e33178fe840b63d7e2eba"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\empty.tsx": {
+    "mtime": 1787626712.4171007,
+    "hash": "f128701e879017eb907893d620583301"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\field.tsx": {
+    "mtime": 1787626712.4181018,
+    "hash": "c54831ea816208a5ff4303a5920afe95"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\form.tsx": {
+    "mtime": 1787626712.420133,
+    "hash": "c9063eb498a6311cb5df927b545b04c5"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\GlassCard.tsx": {
+    "mtime": 1787626712.372325,
+    "hash": "1ca82460e5a3510b58b061d6ad2a900f"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\GlobalStyles.tsx": {
+    "mtime": 1787626712.373823,
+    "hash": "fb29131986e82268ebbfb2dee730affc"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\HolographicBody.tsx": {
+    "mtime": 1789592617.8647552,
+    "hash": "1f4ad7bdf1f3b0dcaf3fbaae2a4607e0"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\hover-card.tsx": {
+    "mtime": 1787626712.4219327,
+    "hash": "81068f604ac26d8be5b3f7200171cb62"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\input-group.tsx": {
+    "mtime": 1787626712.4229434,
+    "hash": "c09f7c951cfa1ad541e85a62589da57a"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\input-otp.tsx": {
+    "mtime": 1787626712.4239473,
+    "hash": "81a4bc8a5df25e6e83434387ae669ce8"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\input.tsx": {
+    "mtime": 1787626712.4260814,
+    "hash": "d7b0b07df86dfbe71af4332544dc251c"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\item.tsx": {
+    "mtime": 1787626712.4271014,
+    "hash": "f208715bc4e07e96323ba2784430b38f"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\kbd.tsx": {
+    "mtime": 1787626712.4281006,
+    "hash": "60fea1bcdca7fdb942d5a4f5ea5489c7"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\label.tsx": {
+    "mtime": 1787626712.4300988,
+    "hash": "7e7baf4cd009ec0e00aa6f8caa367904"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\LogoShield.tsx": {
+    "mtime": 1787626712.3772135,
+    "hash": "4300ba7ae85b80fd75878b37334be68f"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\MagneticButton.tsx": {
+    "mtime": 1787626712.3781877,
+    "hash": "442682399893f5652be2fd5761d04e9e"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\menubar.tsx": {
+    "mtime": 1787626712.4310954,
+    "hash": "74f88732f185a5cf36d347652d4a61bf"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\navigation-menu.tsx": {
+    "mtime": 1787626712.432887,
+    "hash": "28f54f09dd465e69ae20c7a20dd0890b"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\NeonBadge.tsx": {
+    "mtime": 1787626712.3791919,
+    "hash": "52c7a5b38200497283d5d79ddd45e5b5"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\pagination.tsx": {
+    "mtime": 1787626712.4344974,
+    "hash": "b383e60afbe9206c9f3e51bf5aa84f60"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\popover.tsx": {
+    "mtime": 1787626712.4354982,
+    "hash": "69e5f5edb0ad06d3a475c2e66135a8e2"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\progress.tsx": {
+    "mtime": 1787626712.4364974,
+    "hash": "1d549779d0365e6d16eecc646fc115bd"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\radio-group.tsx": {
+    "mtime": 1787626712.4374955,
+    "hash": "4fb370b6af72833bd1bdd1fb7f7e4324"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\resizable.tsx": {
+    "mtime": 1787626712.4385026,
+    "hash": "c67c0a2d7de300dfb3cc6142b5c6043b"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\RiskGauge.tsx": {
+    "mtime": 1787626712.3812275,
+    "hash": "031a4f976a01646be40df67018f7cc44"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\scroll-area.tsx": {
+    "mtime": 1787626712.4405403,
+    "hash": "5d80e4d2b406df4d12e0d31d07cc4b23"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\select.tsx": {
+    "mtime": 1787626712.441546,
+    "hash": "ffcb4591d8c2aaf37c57b16da2307aa7"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\separator.tsx": {
+    "mtime": 1787626712.442543,
+    "hash": "af33ecd2304792337fb75e28cc7d3902"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\sheet.tsx": {
+    "mtime": 1787626712.4445412,
+    "hash": "9064de6b868a8b6678fa9002edca0f68"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\ShimmerBar.tsx": {
+    "mtime": 1787626712.3827364,
+    "hash": "6de949216462c79e5c82451ddea5c90e"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\sidebar.tsx": {
+    "mtime": 1787626712.4455423,
+    "hash": "98a5576f524b5662a1a9d74231f09b2a"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\skeleton.tsx": {
+    "mtime": 1787626712.4465468,
+    "hash": "484f814341cb6db488509951f240abef"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\slider.tsx": {
+    "mtime": 1787626712.4496596,
+    "hash": "f1f9cf9fa2ed3888ccad0fcd5812e463"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\sonner.tsx": {
+    "mtime": 1787626712.4506533,
+    "hash": "8cb1e6930bce231ddcbf04b3936c2f99"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\spinner.tsx": {
+    "mtime": 1787626712.4526625,
+    "hash": "927d834b81f30858a59612fceb088d44"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\StreamingText.tsx": {
+    "mtime": 1787626712.383787,
+    "hash": "80121ee220a99a3fba322e2ff6f7f51d"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\switch.tsx": {
+    "mtime": 1787626712.4536622,
+    "hash": "39af4f7ad680b131590f3a4193cdcf64"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\table.tsx": {
+    "mtime": 1787626712.4556558,
+    "hash": "75be3ed6400ca0ac766980a4a31c4693"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\tabs.tsx": {
+    "mtime": 1787626712.45779,
+    "hash": "f6fbce814ef715cc4acd7383d8142d9f"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\textarea.tsx": {
+    "mtime": 1787626712.4587927,
+    "hash": "540c5cd983f576f9722171ad320d65f9"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\toast.tsx": {
+    "mtime": 1787626712.4603214,
+    "hash": "ab6482e34a32f163eafaed10236be362"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\toaster.tsx": {
+    "mtime": 1787626712.461319,
+    "hash": "c1dfdd89ee8a7ce4081c5e722fc19dd2"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\toggle-group.tsx": {
+    "mtime": 1787626712.4623227,
+    "hash": "57d2950d0594a219246d66d1e41a155f"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\toggle.tsx": {
+    "mtime": 1787626712.4647994,
+    "hash": "d62db05a28945f77154f97e1b8512e83"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\tooltip.tsx": {
+    "mtime": 1787626712.4657924,
+    "hash": "bdba705d4511c7bf839403a35a0e6885"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\TypewriterText.tsx": {
+    "mtime": 1787626712.3857844,
+    "hash": "f995123e4ca730034b773f0048671ddc"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\use-mobile.tsx": {
+    "mtime": 1787626712.4667912,
+    "hash": "fcf1955a57df5349b5d0e9744f75921c"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\components\\ui\\use-toast.ts": {
+    "mtime": 1787626712.4677896,
+    "hash": "3225508c71554a17387c67bc46ada1c1"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\hooks\\use-mobile.ts": {
+    "mtime": 1787626712.4698212,
+    "hash": "fcf1955a57df5349b5d0e9744f75921c"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\hooks\\use-toast.ts": {
+    "mtime": 1787626712.470833,
+    "hash": "3225508c71554a17387c67bc46ada1c1"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\lib\\gemini.ts": {
+    "mtime": 1787626712.4729707,
+    "hash": "135eda93d62ed6fff8ff6678e3f2f4d2"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\lib\\groq.ts": {
+    "mtime": 1789592400.689385,
+    "hash": "83cb1e9fe63ac2e0bad952dfdd71a392"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\lib\\utils.ts": {
+    "mtime": 1787626712.476982,
+    "hash": "d5fc3afa79f0c3df711898805e5da7b2"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\lib\\data\\hospital-metrics.ts": {
+    "mtime": 1789592433.2304597,
+    "hash": "64dfcc74ad96913683eccc4262364630"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\lib\\data\\sample-patients.ts": {
+    "mtime": 1789592423.8775516,
+    "hash": "25853ee924813c57ba6effa6c0574ae9"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\lib\\supabase\\client.ts": {
+    "mtime": 1789592448.1948676,
+    "hash": "7f73ee2c98ce90dd3c87d3399fb312c7"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\lib\\supabase\\server.ts": {
+    "mtime": 1789592470.9728754,
+    "hash": "ae685205c788c18bc2c1c839bb9bd0f7"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\lib\\supabase\\service.ts": {
+    "mtime": 1789592546.152007,
+    "hash": "93fe1a1d77357fce7dcda0fa5d3f5f93"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\scripts\\001_create_medical_records_schema.sql": {
+    "mtime": 1787626712.5013413,
+    "hash": "d2e8018a1682c530802a2fe18187e786"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\scripts\\002_seed_demo_data.sql": {
+    "mtime": 1787626712.5023456,
+    "hash": "579ddd36ae982515eff20f93407a0bfa"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\pnpm-workspace.yaml": {
+    "mtime": 1789592370.9584832,
+    "hash": "1f039ee199418e716ce798ea90ebcf75"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\public\\apple-icon.png": {
+    "mtime": 1787626712.486174,
+    "hash": "734ce6c878789fcd5843e8a7963e0756"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\public\\icon-dark-32x32.png": {
+    "mtime": 1787626712.487269,
+    "hash": "abd5ebe9e287ca0a89f4fd3da2b5cf9c"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\public\\icon-light-32x32.png": {
+    "mtime": 1787626712.4882872,
+    "hash": "53426c910bcab7d3e5213cc64aa1b2c5"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\public\\icon.svg": {
+    "mtime": 1787626712.4897938,
+    "hash": "0285a820d3fb2d06a9fb098ef84c1174"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\public\\placeholder-logo.png": {
+    "mtime": 1787626712.4908166,
+    "hash": "95d8d1a4a9bbcccc875e2c381e74064a"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\public\\placeholder-logo.svg": {
+    "mtime": 1787626712.4928136,
+    "hash": "1e16dc7df824652c5906a2ab44aef78c"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\public\\placeholder-user.jpg": {
+    "mtime": 1787626712.4938152,
+    "hash": "7ee6562646feae6d6d77e2c72e204591"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\public\\placeholder.jpg": {
+    "mtime": 1787626712.4959636,
+    "hash": "1e533b7b4545d1d605144ce893afc601"
+  },
+  "C:\\Users\\acer\\Documents\\GitHub\\EHR_Dashboard\\public\\placeholder.svg": {
+    "mtime": 1787626712.4978905,
+    "hash": "35707bd9960ba5281c72af927b79291f"
+  }
+}
